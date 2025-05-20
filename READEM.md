@@ -1,8 +1,15 @@
 # Diffusion-Based Correction and Super-Resolution
 ## This project provides code for **Improving Data Fidelity via Diffusion Model-Based Correction and Super-Resolution**
 
+# 1. **Quick Visulization**
+## We provide following Jupyter notebook for quick visulization.
+- ## (1) Run `Correction_1d_various.ipynb` for 1D advection equation with bump initial conditions.
+- ## (2) Run `Comp_WD.ipynb` for Wind Speed ERA5 dataset.
+- ## (3) Run `Comp_PV.ipynb` for Potential Velocity ERA5 dataset.
+- ## (4) Run `Comp_NS.ipynb` for Navier-Stokes dataset.
+- ## (5) Run `Comp_ELAS.ipynb` for Linear Elasticity dataset.
 
-# Usage of code (1D)
+# 2. Usage of code (1D)
 ## This section outlines the standard procedure for utilizing the code for 1D advection equation with bump initial conditions.
 
 # **Step 1.** Data preparation
@@ -20,7 +27,7 @@
 - ## Run `Correction_1d_various.ipynb` using Jupyternotebook.
 
 
-# Usage of code (2D)
+# 3. Usage of code (2D)
 ## This section outlines the standard procedure for utilizing the code for 2D, with a focus on the implementation of the 2D climate dataset.  
 
 # **Step 1.** Data preparation
